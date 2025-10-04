@@ -1,6 +1,0 @@
-print('Hello World')
-print('Teste 1')
-print(1000)
-print(10.5)
-print(True)
-print(False)

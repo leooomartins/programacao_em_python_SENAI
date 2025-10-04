@@ -1,2 +1,0 @@
-ola antediguemon
-print('text')
