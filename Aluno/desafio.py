@@ -77,13 +77,13 @@ print("\nSISTEMA DE RESERVAS DO HOTEL")
 print("-----------------------------------")
 
 #Cliente 1
-print(f"\n Cliente: **{cliente1_nome}**")
+print(f"\n Cliente: {cliente1_nome}")
 print(f"   Quarto: {cliente1_quarto} (R$ {diaria_cliente1:.2f} / dia)")
 print(f"   Estadia: {cliente1_dias} dias")
 print(f"   Total a Pagar: **R$ {valor_cliente1:.2f}**")
 
 #Cliente 2
-print(f"\n Cliente: **{cliente2_nome}**")
+print(f"\n Cliente: {cliente2_nome}")
 print(f"   Quarto: {cliente2_quarto} (R$ {diaria_cliente2:.2f} / dia)")
 print(f"   Estadia: {cliente2_dias} dias")
 print(f"   Total a Pagar: **R$ {valor_cliente2:.2f}**")
