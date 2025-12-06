@@ -1,0 +1,10 @@
+ATIVIDADE 2
+Crie um formulário em Tkinter
+Problema: Sistema de Cadastro de Clientes
+Você é um desenvolvedor de software e foi contratado por uma empresa de serviços para criar um sistema de cadastro de clientes. O sistema deve permitir que os clientes forneçam suas informações pessoais, como nome, idade, e-mail, endereço, celular...
+Atividade: Crie um formulário em Tkinter que contenha os seguintes campos: Nome Idade E-mail Endereço Celular
+Cep
+Cidade
+Cursos
+O formulário deve ter um botão de "Enviar" que, quando clicado, imprima as informações do cliente na console.
+Tamanho da tela = '1700x750’ 
